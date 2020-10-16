@@ -2,6 +2,7 @@
  
 This project was originally designed by [prashjha](https://github.com/prashjha/StudyCovid19) for the final project study of CSE 397 Foundations of Predictive Computational Science thought by Dr. J. Tinsley Oden in spring 2020.
 
+
 # Fitting COVID19 trends using Bayesian method
 
 In this assignment, our goal is to fit the COVID 19 trends (confirmed cases of COVID 19 as a function of date) using the generalized growth model given by
